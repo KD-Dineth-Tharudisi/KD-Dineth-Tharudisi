@@ -1,4 +1,4 @@
-#  Dineth Tharudisi 🌸👾
+#  Dineth Tharudisi 🌸
 
 **`Associate Software Developer`**
 
