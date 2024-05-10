@@ -4,7 +4,7 @@
 
 With an SGPA of 3.87, I am currently a final year undergraduate information technology major at the University of Moratuwa. Apart from, I’m working with Vallibel Finance PLC as an associate software engineer. Aside from playing the violin, I also like swimming and playing table tennis, two activities in which I have won countless titles.
 
-Specialties: C#, SQL, ASP.NET MVC, XML, UI/ UX, Stored Procedures, .NET Core
+Specialties: C#, SQL, ASP.NET MVC, XML, XML serialization, UI/ UX, Stored Procedures, .NET Core
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
