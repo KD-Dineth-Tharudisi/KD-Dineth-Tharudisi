@@ -34,7 +34,7 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="UI/UX" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/>
-</a> </br>
+</a> <br><br>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Apps" height="42px"/>
 </a>
@@ -52,8 +52,8 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 </a>
 <a href="https://docs.microsoft.com/en-us/sql/t-sql/queries/?view=sql-server-ver15" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="T-SQL" height="42px"/>
-</a>
-
+</a> 
+<br> <br>
 Finance related skills : Fraud Management & Anti-Money Laundering
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island)
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner
