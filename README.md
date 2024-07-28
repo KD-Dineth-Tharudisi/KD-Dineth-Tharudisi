@@ -1,5 +1,50 @@
 #  Dineth Tharudisi
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .icon-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .icon-container a {
+            display: inline-block;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .icon-container a:hover {
+            transform: translateY(-5px);
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+        }
+        .icon-container img {
+            height: 42px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="icon-container">
+    <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET"/>
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"/>
+    </a>
+    <!-- Add more icons as needed -->
+</div>
+
+</body>
+</html>
+
 **`Software Engineer`**
 
 I'm a final year Undergraduate from University of Moratuwa, following the Degree of Bachelor of Information Technology 
