@@ -2,10 +2,6 @@
 
 **`Software Engineer`**
 
-Education : University of Moratuwa, Bachelor of information technology (2022 - 2025)<br>
-Alison - Diploma in Fraud Management & Anti-Money Laundering Awareness<br>
-Dharmaloka college - Kelaniye (GCE ADVANCE LEVEL (Sinhala Medium) GCE ORDINARY LEVEL (English Medium))<br>
-
 Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, Mobile App (Kotlin, Android studio), MySQL, API, T-SQL <br><br>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -59,6 +55,7 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br>
+Licences & certifications : Web Design for Beginners - University of Moratuwa ,Software Development - Slasscom, Project Certificate Build a Full Website using WordPress - Coursera, Google Analytics for Beginners - Google Analytics, Leadership and Management- Oxford College, IBM Data Analyst Professional Certificate - IBM, Programming in HTML5 with JavaScript and CSS3, Studio.code.org - Course C | Course D | Course E, IBM Data Science Professional- IBM, Fundamentals of Digital Marketing - Google, Introduction to Packet Tracer - Cisco, Introduction to Cybersecurity -Cisco, C for Beginners - Great Learning Academy <br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
