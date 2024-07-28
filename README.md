@@ -55,7 +55,23 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br>
-Licences & certifications : Web Design for Beginners - University of Moratuwa ,Software Development - Slasscom, Project Certificate Build a Full Website using WordPress - Coursera, Google Analytics for Beginners - Google Analytics, Leadership and Management- Oxford College, IBM Data Analyst Professional Certificate - IBM, Programming in HTML5 with JavaScript and CSS3, Studio.code.org - Course C | Course D | Course E, IBM Data Science Professional- IBM, Fundamentals of Digital Marketing - Google, Introduction to Packet Tracer - Cisco, Introduction to Cybersecurity -Cisco, C for Beginners - Great Learning Academy <br><br>
+<div style="border: 4px solid #000; padding: 15px; border-radius: 10px;">
+    <strong>Licenses & Certifications:</strong> <br>
+    Web Design for Beginners - University of Moratuwa<br>
+    Software Development - Slasscom<br>
+    Project Certificate Build a Full Website using WordPress - Coursera<br>
+    Google Analytics for Beginners - Google Analytics<br>
+    Leadership and Management - Oxford College<br>
+    IBM Data Analyst Professional Certificate - IBM<br>
+    Programming in HTML5 with JavaScript and CSS3<br>
+    Studio.code.org - Course C | Course D | Course E<br>
+    IBM Data Science Professional - IBM<br>
+    Fundamentals of Digital Marketing - Google<br>
+    Introduction to Packet Tracer - Cisco<br>
+    Introduction to Cybersecurity - Cisco<br>
+    C for Beginners - Great Learning Academy
+</div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
