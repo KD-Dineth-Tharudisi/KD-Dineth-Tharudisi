@@ -60,6 +60,6 @@ Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing
 
 <a href="https://www.linkedin.com/in/dineth-tharudisi" target="_blank" style="text-decoration: none; color: inherit;">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="42px" style="margin-left: 10px;"/>
-</a>  For detailed information on projects, education, licenses, and certifications, please refer to this image.
+</a>  For detailed information on projects, education, licenses, and certifications <br>please refer to this image.
 
 <br>
