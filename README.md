@@ -1,6 +1,6 @@
 #  Dineth Tharudisi
 
-**`Associate Software Engineer`**
+**`Software Engineer`**
 
 I'm a final year Undergraduate from University of Moratuwa, following the Degree of Bachelor of Information Technology 
 
@@ -44,8 +44,8 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 <a href="https://getbootstrap.com/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="42px"/>
 </a>
-
-<br> <br>
+<br> 
+<br>
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br>
