@@ -25,17 +25,12 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" height="42px"/>
 </a>
 <a href="#" target="_blank">
-    <img align="left" src="https://path/to/xml-serialization-icon.svg" alt="XML Serialization" height="42px"/>
-</a>
-<a href="#" target="_blank">
-    <img align="left" src="https://example.com/path/to/xml-mapping-icon.svg" alt="XML Mapping" height="42px"/>
-</a>
-
-<a href="#" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="UI/UX" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/>
-</a> <br><br>
+</a> 
+<br>
+<br>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Apps" height="42px"/>
 </a>
@@ -44,9 +39,6 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 </a>
 <a href="https://developer.android.com/studio" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" height="42px"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="42px"/>
 </a>
 <a href="#" target="_blank">
     <img align="left" src="https://path/to/api-icon.svg" alt="API" height="42px"/>
