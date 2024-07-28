@@ -43,9 +43,9 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="42px"/>
-</a> <br><br>
+</a> <br><br><br>
 <a href="https://github.com/" target="_blank">
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-blue.svg" alt="GitHub" height="42px"/>
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="42px"/>
 </a>
 <a href="https://gitlab.com/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="42px"/>
