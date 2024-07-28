@@ -6,13 +6,6 @@ I'm a final year Undergraduate from University of Moratuwa, following the Degree
 
 Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, Mobile App (Kotlin, Android studio), MySQL, API, T-SQL
 
-Finance related skills : Fraud Management & Anti-Money Laundering
-Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island)
-Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
-
-### 🔨 Languages and Tools:
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
 </a>
@@ -41,7 +34,7 @@ Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="UI/UX" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/>
-</a>
+</a> </br>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Apps" height="42px"/>
 </a>
@@ -60,6 +53,12 @@ Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing
 <a href="https://docs.microsoft.com/en-us/sql/t-sql/queries/?view=sql-server-ver15" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="T-SQL" height="42px"/>
 </a>
+
+Finance related skills : Fraud Management & Anti-Money Laundering
+Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island)
+Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
 
 <br>
