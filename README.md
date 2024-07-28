@@ -48,6 +48,7 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 Finance related skills : Fraud Management & Anti-Money Laundering <br><br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br><br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br><br>
+Projects : Transactions Monitoring System for Anti Money Laundering (AML) <br>Jan 2023 - Jul 2024<br>Associated with Vallibel Finance<br>Architecture is strictly concealed!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
