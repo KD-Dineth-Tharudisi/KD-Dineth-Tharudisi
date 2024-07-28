@@ -18,9 +18,6 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 <a href="https://www.postgresql.org/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="42px"/>
 </a>
-<a href="#" target="_blank">
-    <img align="left" src="https://path/to/database-validation-icon.svg" alt="Database Validation" height="42px"/>
-</a>
 <a href="https://www.w3schools.com/xml/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" height="42px"/>
 </a>
@@ -40,12 +37,16 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
 <a href="https://developer.android.com/studio" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" height="42px"/>
 </a>
-<a href="#" target="_blank">
-    <img align="left" src="https://path/to/api-icon.svg" alt="API" height="42px"/>
-</a>
 <a href="https://docs.microsoft.com/en-us/sql/t-sql/queries/?view=sql-server-ver15" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="T-SQL" height="42px"/>
 </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="42px"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="42px"/>
+</a>
+
 <br> <br>
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
