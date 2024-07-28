@@ -2,7 +2,9 @@
 
 **`Software Engineer`**
 
-I'm a final year Undergraduate from University of Moratuwa, following the Degree of Bachelor of Information Technology 
+Education : University of Moratuwa, Bachelor of information technology (2022 - 2025)<br>
+Alison - Diploma in Fraud Management & Anti-Money Laundering Awareness<br>
+Dharmaloka college - Kelaniye (GCE ADVANCE LEVEL (Sinhala Medium) GCE ORDINARY LEVEL (English Medium))<br>
 
 Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, Mobile App (Kotlin, Android studio), MySQL, API, T-SQL <br><br>
 
