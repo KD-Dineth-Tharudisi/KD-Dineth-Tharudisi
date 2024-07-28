@@ -49,12 +49,20 @@ Finance related skills : Fraud Management & Anti-Money Laundering <br><br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br><br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br><br>
 Projects :
-<div style="margin-left: 20px;">
+<div style="
+    margin-left: 20px;
+    border: 2px solid #4CAF50; /* Green border color */
+    border-radius: 10px;       /* Rounded corners */
+    padding: 15px;             /* Space inside the border */
+    background-color: #f9f9f9; /* Light grey background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+">
     Transactions Monitoring System for Anti Money Laundering (AML) <br>
     Jan 2023 - Jul 2024<br>
     Associated with Vallibel Finance<br>
     Architecture is strictly concealed!
 </div>
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
