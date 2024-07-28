@@ -56,19 +56,10 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="42px"/>
 </a>
 <br><br><br>
-Finance related skills : Fraud Management & Anti-Money Laundering <br><br>
-Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br><br>
-Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br><br>
-Projects :
-<div style="border: 5px solid black; padding: 10px; border-radius: 5px;">
-    <strong>Transactions Monitoring System for Anti Money Laundering (AML)</strong><br>
-    Jan 2023 - Jul 2024<br>
-    Associated with Vallibel Finance<br>
-    <em>Architecture is strictly concealed!</em>
-</div>
-
+Finance related skills : Fraud Management & Anti-Money Laundering <br>
+Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
+Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
-
 
 <br>
