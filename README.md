@@ -28,8 +28,9 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
     <img align="left" src="https://path/to/xml-serialization-icon.svg" alt="XML Serialization" height="42px"/>
 </a>
 <a href="#" target="_blank">
-    <img align="left" src="https://path/to/xml-mapping-icon.svg" alt="XML Mapping" height="42px"/>
+    <img align="left" src="https://example.com/path/to/xml-mapping-icon.svg" alt="XML Mapping" height="42px"/>
 </a>
+
 <a href="#" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="UI/UX" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
