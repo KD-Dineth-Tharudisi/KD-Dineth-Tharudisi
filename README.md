@@ -50,17 +50,21 @@ Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All 
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br><br>
 Projects :
 <div style="
-    margin-left: 20px;
-    border: 2px solid #4CAF50;
-    border-radius: 10px;      
-    padding: 15px;             
-    background-color: #f9f9f9; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    border: 2px solid #4CAF50; /* Green border */
+    border-radius: 10px;       /* Rounded corners */
+    padding: 15px;             /* Space inside the border */
+    background-color: #f9f9f9; /* Light grey background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    width: auto;               /* Ensure the div fits the content */
+    display: inline-block;     /* Keep it inline with other elements */
+    margin: 20px;              /* Margin to space it from other elements */
+">
     Transactions Monitoring System for Anti Money Laundering (AML) <br>
     Jan 2023 - Jul 2024<br>
     Associated with Vallibel Finance<br>
     Architecture is strictly concealed!
 </div>
+
 
 
 
