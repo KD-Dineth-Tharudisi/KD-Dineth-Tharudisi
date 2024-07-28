@@ -26,8 +26,6 @@ Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XM
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/>
 </a> 
-<br>
-<br>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Apps" height="42px"/>
 </a>
