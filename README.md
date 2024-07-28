@@ -59,7 +59,7 @@ Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
 <a href="https://www.linkedin.com/in/dineth-tharudisi" target="_blank" style="text-decoration: none; color: inherit;">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="42px" style="margin-left: 10px;"/>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="45px" style="margin-left: 10px;"/>
 </a>  For detailed information on projects, education, licenses, and certifications <br>please refer to this image.
 
 <br>
