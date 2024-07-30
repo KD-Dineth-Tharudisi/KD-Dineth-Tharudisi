@@ -52,11 +52,7 @@ Mobile App (Kotlin, Android studio), MySQL, API, T-SQL
 <a href="https://www.figma.com/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="42px"/>
 </a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 <br><br><br><br><br>
 
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
