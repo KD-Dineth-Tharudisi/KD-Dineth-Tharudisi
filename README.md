@@ -4,8 +4,7 @@
 
 Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, 
 Mobile App (Kotlin, Android studio), MySQL, API, T-SQL 
-
-<br><br>
+<br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
 </a>
