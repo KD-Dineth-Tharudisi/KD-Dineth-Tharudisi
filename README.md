@@ -2,12 +2,10 @@
 
 **`Software Engineer`**
 
-</div>
-    Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, 
-    Mobile App (Kotlin, Android studio), MySQL, API, T-SQL 
-</div>
+Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, 
+Mobile App (Kotlin, Android studio), MySQL, API, T-SQL 
 
-<br>
+<br><br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
 </a>
@@ -55,7 +53,7 @@
 <a href="https://www.figma.com/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="42px"/>
 </a>
-</br></br></br>
+<br><br><br>
 
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
