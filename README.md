@@ -53,8 +53,7 @@ Mobile App (Kotlin, Android studio), MySQL, API, T-SQL
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="42px"/>
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-<br><br><br><br><br>
-
+<br>
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br>
