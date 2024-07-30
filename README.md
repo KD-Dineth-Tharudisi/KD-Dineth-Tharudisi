@@ -7,7 +7,7 @@
     Mobile App (Kotlin, Android studio), MySQL, API, T-SQL 
 </div>
 
-<div>
+<br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
 </a>
@@ -55,7 +55,7 @@
 <a href="https://www.figma.com/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="42px"/>
 </a>
-</div>
+</br></br></br>
 
 <div>
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
