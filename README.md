@@ -57,11 +57,10 @@
 </a>
 </br></br></br>
 
-<div>
 Finance related skills : Fraud Management & Anti-Money Laundering <br>
 Sports achievements : Swimming (Commando Regiment - SL Army), Table Tennis (All island) <br>
 Entertainment : Artist Management, Event Planning, producing, podcasting, Mixing & Mastering, Record label owner <br>
-</div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KD-Dineth-Tharudisi&theme=transparent&hide_border=true&border_radius=30&card_width=500)](https://git.io/streak-stats)
 
