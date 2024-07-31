@@ -1,6 +1,6 @@
 #  Dineth Tharudisi
 
-**`Software Engineer`**
+**`Software Engineer`** 
 
 Field Related skills : C#, SQL, ASP.NET MVC, PostgreSQL, Database validation, XML, XML serialization,XML Mapping, UI/ UX (Prefer own set of css with html, JS, Figma), Windows Apps, 
 Mobile App (Kotlin, Android studio), MySQL, API, T-SQL 
