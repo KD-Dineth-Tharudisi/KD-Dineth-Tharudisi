@@ -2,7 +2,7 @@
 
 **`Software Engineer`** 
 
-Field Related skills : Arduino and hardware programming, C#, SQL, React, .NET Core, ASP.NET MVC, PostgreSQL, XML (serialization, Mapping), CSS, HTML, JS, Mobile App (Kotlin/ Java,Android studio), API, T-SQL, ETL (Data warehousing & analytics), Performance tuning, WordPress, PHP, Crystal Report, software modernization, version control, prototyping (Figma), Adobe 
+Field Related skills : Arduino and hardware programming, C#, SQL, React, .NET Core, ASP.NET MVC, PostgreSQL, XML (serialization, Mapping), CSS, HTML, JS, Mobile App (Kotlin/ Java,Android studio), API, T-SQL, ETL (Data warehousing & analytics), Performance tuning, WordPress, PHP, Crystal Report, software modernization, version control, prototyping (Figma), Adobe
 <br><br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
