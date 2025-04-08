@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
  
-Field Related skills : Arduino and hardware programming, C#, SQL, .NET Core, ASP.NET MVC, ASPX, PostgreSQL, XML (serialization, Mapping), SCSS, HTML5, JS, Mobile App (Kotlin/ Java,Android studio), API, T-SQL, ETL (Data warehousing & analytics), Performance tuning, CMSs, PHP, Crystal Report, software modernization, version control (Git Lab, Git Hub), Figma, Apache JMeter™, DNS Management, System Maintenance & Troubleshooting, OOP (Encapsulation, Abstraction, Inheritance, Polymorphism)
+Field Related skills : Arduino and hardware programming, C#, SQL, .NET Core, ASP.NET MVC, ASPX, PostgreSQL, XML (serialization, Mapping), SCSS, HTML5, JS, Mobile App (Kotlin/ Java,Android studio), API, T-SQL, ETL (Data warehousing & analytics), Performance tuning, CMSs, PHP, Crystal Report, software modernization, version control (Git Lab, Git Hub), Figma, Apache JMeter™, DNS Management, System Maintenance & Troubleshooting, OOP (Encapsulation, Abstraction, Inheritance, Polymorphism), PowerBI
 <br><br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
