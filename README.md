@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
  
-Field Related skills : Arduino and hardware programming, C#, SQL, .NET Core, ASP.NET MVC, ASPX, PostgreSQL, XML (serialization,Mapping), SCSS, HTML5, JavaScript, jQuery, Mobile App (Kotlin/ Java,Android studio), API, T-SQL, Data warehousing,Performance tuning, CMSs (WordPress, Wix) , PHP, Crystal Report, software modernization, version control (Git Lab, GitHub), Figma, Apache JMeter™ ,DNS Management, System Maintenance & Troubleshooting, Power BI, IIS application hosting & server tuning, Python (modular Python scripts), Jupyter Notebook, Linux (Ubuntu), xarray, netCDF4, numpy, pandas, NASA Panoply, Shell scripting (Bash), Batch processing, Anaconda 
+Field Related skills : AArduino and hardware programming, C#, SQL, .NET Core, ASP.NET MVC, ASPX, PostgreSQL, Mermaid, XML (serialization, Mapping), SCSS, HTML5, JavaScript,  jQuery, Mobile App (Kotlin/ Java,Android studio), API, T-SQL, Data warehousing, Performance tuning, CMSs (WordPress, Wix) , PHP, Crystal Report, software modernization, version control (Git Lab, Git Hub), Figma, Apache JMeter™, Selenium WebDriver, MSTest, UI Testing, Functional Testing, Test Automation, DNS Management, System Maintenance & Troubleshooting, Power BI, IIS application hosting & server tuning, Python (modular Python scripts), Jupyter Notebook, Linux (Ubuntu), xarray, netCDF4, numpy, pandas, NASA Panoply, Shell scripting (Bash), Batch processing, Anaconda, Forward & Reverse Engineering 
 <br><br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="42px"/>
