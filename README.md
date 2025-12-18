@@ -63,9 +63,8 @@ Entertainment : Event manager, Record label owner <br>
 
 <br>
 
-<p align="right">
   <img src="https://raw.githubusercontent.com/KD-Dineth-Tharudisi/KD-Dineth-Tharudisi/main/logo/dance-21979.gif" height="80"/>
-</p>
+
 
 
 
