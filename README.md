@@ -10,7 +10,7 @@ Technical Expertise<br>
  5.Data Visualization & Reporting: Power BI, Crystal Reports, Grafana, NASA Panoply.<br>
  6.DevOps, Version Control & Hosting: GitLab, GitHub, IIS application hosting, server tuning, DNS management, system maintenance and troubleshooting.<br>
  7.Design & Collaboration Tools: Figma, Slack.<br>
- 8.Mobile & Embedded Systems: Android Studio, API development, Arduino hardware programming.<br><br>
+ 8.Mobile & Embedded Systems: Android Studio, API development, Arduino hardware programming.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KD-Dineth-Tharudisi/KD-Dineth-Tharudisi/main/logo/dance-21979.gif" height="180"/>
