@@ -12,7 +12,9 @@ Technical Expertise<br>
  7.Design & Collaboration Tools: Figma, Slack.<br>
  8.Mobile & Embedded Systems: Android Studio, API development, Arduino hardware programming.<br><br>
 
- <img src="https://raw.githubusercontent.com/KD-Dineth-Tharudisi/KD-Dineth-Tharudisi/main/logo/dance-21979.gif" height="180" style="margin-left:40em;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KD-Dineth-Tharudisi/KD-Dineth-Tharudisi/main/logo/dance-21979.gif" height="180"/>
+</p>
   
 Specialized Experience<br>
  1.Software modernization and legacy system upgrades.<br>
