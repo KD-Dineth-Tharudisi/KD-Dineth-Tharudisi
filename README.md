@@ -3,26 +3,34 @@
 **`Dedicated Software Engineer with 3 years of enterprise experience and a Bachelor of Information Technology degree from the University of Moratuwa.`**
  
 Technical Expertise<br>
-Programming & Software Development: C#, .NET, MVC, ASPX, Java, Kotlin, Python (Jupyter, Anaconda, NumPy, Pandas, xarray, netCDF4), Node.js, PHP, Shell scripting (Bash), Arduino & embedded systems programming.<br>
-Web & Front-End Technologies: HTML5, CSS/SCSS, JavaScript, jQuery, RESTful API development, XML (serialization & mapping), LAMP stack, CMS platforms (WordPress, Cpanel, Wix).<br>
-Database & Data Management: SQL, T-SQL, PostgreSQL, ETL (Extract, Transform, Load), Data Warehousing, ACID-compliant data migrations, OleDb integration, Performance tuning, SQL Server Integration Services (SSIS), Stored Procedures, Functions, Indexing<br>
-Testing & Automation: Selenium WebDriver, Cypress, MSTest, UI & functional testing, test automation, Apache JMeter™, k6 (Load & Stress Testing), forward & reverse engineering, MantisBT<br>
-Data Visualization & Reporting: Power BI, Crystal Reports, Grafana, NASA Panoply.<br>
+1. Programming & Software Development: C#, .NET, MVC, ASPX, Java, Kotlin, Python (Jupyter, Anaconda, NumPy, Pandas, xarray, netCDF4), Node.js, PHP, Shell scripting (Bash), Arduino & embedded systems programming.<br>
+
+2. Web & Front-End Technologies: HTML5, CSS/SCSS, JavaScript, jQuery, RESTful API development, XML (serialization & mapping), LAMP stack, CMS platforms (WordPress, Cpanel, Wix).<br>
+
+3. Database & Data Management: SQL, T-SQL, PostgreSQL, ETL (Extract, Transform, Load), Data Warehousing, ACID-compliant data migrations, OleDb integration, Performance tuning, SQL Server Integration Services (SSIS), Stored Procedures, Functions, Indexing<br>
+
+4. Testing & Automation: Selenium WebDriver, Cypress, MSTest, UI & functional testing, test automation, Apache JMeter™, k6 (Load & Stress Testing), forward & reverse engineering, MantisBT<br>
+
+5. Data Visualization & Reporting: Power BI, Crystal Reports, Grafana, NASA Panoply.<br>
 DevOps, Version Control & Hosting: GitLab, GitHub, IIS application hosting, server tuning, DNS management, system maintenance and troubleshooting.<br>
-Design & Collaboration Tools: Figma, Slack.<br>
-Mobile & Embedded Systems: Android Studio, API development, Arduino hardware programming.<br>
-Data Integration & Modeling Tools: - Altova MapForce, XMLSpy, StyleVision, UModel, DatabaseSpy, DiffDog, SchemaAgent<br>
+
+6. Design & Collaboration Tools: Figma, Slack.<br>
+
+7. Mobile & Embedded Systems: Android Studio, API development, Arduino hardware programming.<br>
+
+8. Data Integration & Modeling Tools: - Altova MapForce, XMLSpy, StyleVision, UModel, DatabaseSpy, DiffDog, SchemaAgent<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KD-Dineth-Tharudisi/KD-Dineth-Tharudisi/main/logo/dance-21979.gif" height="180"/>
 </p>
 
 Specialized Experience<br>
-Software modernization and legacy system upgrades.<br>
-High-performance data processing pipelines.<br>
-Architected, designed, developed, and deployed cross-platform, high-reliability systems.<br>
-End-to-end API design, development, and integration.<br>
-ETL & Data Management<br>
+
+1. Software modernization and legacy system upgrades.<br>
+2. High-performance data processing pipelines.<br>
+3. Architected, designed, developed, and deployed cross-platform, high-reliability systems.<br>
+4. End-to-end API design, development, and integration.<br>
+5. ETL & Data Management<br>
 
 <br><br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
